@@ -1,6 +1,7 @@
 # PrestaMigrator
 
 $  php run.php export -H localhost -d luzkoviny -u root -p root -o ./categories.csv category
+
 $  php run.php export -H localhost -d luzkoviny -u root -p root -o ./products.csv product
 
 
