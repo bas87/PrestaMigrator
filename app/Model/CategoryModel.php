@@ -62,5 +62,3 @@ class CategoryModel
 	}
 
 }
-
-class EmptyTableException extends \Exception {}
